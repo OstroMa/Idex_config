@@ -1,2 +1,2 @@
 # Idex_config
-My confix for my Voron Tridex
+My confic for my Voron Tridex
